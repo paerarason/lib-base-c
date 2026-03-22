@@ -1,4 +1,0 @@
-/home/peru/dev/lib-base-c/build/CMakeFiles/mylib.dir
-/home/peru/dev/lib-base-c/build/CMakeFiles/example_app.dir
-/home/peru/dev/lib-base-c/build/CMakeFiles/edit_cache.dir
-/home/peru/dev/lib-base-c/build/CMakeFiles/rebuild_cache.dir
